@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509315662939",
+    "project_id": "real-time-food-ordering-app",
+    "storage_bucket": "real-time-food-ordering-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509315662939:android:5485550c1f423f1711eb7e",
+        "android_client_info": {
+          "package_name": "com.example.real_time_food_ordering_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509315662939-8d4hiv5s8gisesk7jfrcacredq3kc0g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClh3O42vRsa3f6El-SwWeEDCaT8oc0tMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509315662939-8d4hiv5s8gisesk7jfrcacredq3kc0g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
